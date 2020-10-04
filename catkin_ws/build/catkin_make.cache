@@ -1,0 +1,2 @@
+ball_chaser:my_robot:pgm_map_creator:teleop_twist_keyboard:turtlebot/turtlebot:turtlebot/turtlebot_bringup:turtlebot/turtlebot_capabilities:turtlebot/turtlebot_description:turtlebot/turtlebot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/workspace/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/workspace/catkin_ws/install -G Unix Makefiles

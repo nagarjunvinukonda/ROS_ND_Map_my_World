@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+
+    <!-- include file="$(find turtlebot_teleop)/launch/keyboard_teleop.launch"/ -->
+
+    <node name="teleop_twist_keyboard" type="teleop_twist_keyboard.py" pkg="teleop_twist_keyboard"  output="screen">
+
+    </node>
+
+</launch>
