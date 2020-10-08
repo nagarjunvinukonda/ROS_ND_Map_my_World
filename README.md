@@ -18,5 +18,10 @@ roslaunch my_robot mapping.launch
 
 - With rtabmap-databaseViewer you can view your data which is saved in my_robot/maps folder
 
-![2D RTAB map](https://user-images.githubusercontent.com/49041896/95013524-c5a27800-060e-11eb-865b-00cc88bbcf45.JPG)
-![Screenshot (58)](https://user-images.githubusercontent.com/49041896/95013549-f387bc80-060e-11eb-83c6-ca0278cf2d13.png)
+# Simulation Results
+
+- RTAB Map
+![RTAB map](https://user-images.githubusercontent.com/49041896/95522707-cf273980-099a-11eb-9c7e-11b0336877ff.png)
+
+- Occupancy Grids
+![occupancy grids](https://user-images.githubusercontent.com/49041896/95522759-f41bac80-099a-11eb-8852-6e48257d7e0a.png)
